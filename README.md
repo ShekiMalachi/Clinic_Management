@@ -24,3 +24,10 @@ https://github.com/user-attachments/assets/bbea5b49-629c-45fa-ae7c-8bcbe900d500
 
 https://github.com/user-attachments/assets/8ec08faa-9dfd-4728-9d68-14b7826cca31
 
+# Dashboard
+
+https://github.com/user-attachments/assets/3ee9a3f0-bd4e-4511-b1ca-d47543218a15
+
+# Splash Screen
+
+https://github.com/user-attachments/assets/1a6a9d28-f157-4061-af2b-e85236ef3420
