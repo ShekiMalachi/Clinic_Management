@@ -2,10 +2,9 @@
 
 https://drive.google.com/file/d/14m6RbKyESme4BTpKbYqLvthSdz4DQPIT/view?usp=drive_link
 
-#Database Schema
+# Database Schema
 
-![Untitled](https://github.com/user-attachments/assets/d8712d96-2733-4410-b3ee-f71ecd176dbc)
-
+![SQL_Schema](https://github.com/user-attachments/assets/2065cd65-411e-46cf-9bc1-911e24a3fa88)
 
 # Patient List
 
