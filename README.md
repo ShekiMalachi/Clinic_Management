@@ -2,6 +2,11 @@
 
 https://drive.google.com/file/d/14m6RbKyESme4BTpKbYqLvthSdz4DQPIT/view?usp=drive_link
 
+#Database Schema
+
+![Uploading Untitled.svg…]()
+
+
 # Patient List
 
 https://github.com/user-attachments/assets/88071e59-89a9-46fb-999e-9e13785da50d
